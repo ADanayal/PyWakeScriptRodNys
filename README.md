@@ -4,5 +4,5 @@ Python Scripts for a Dissertation report, focusing on the optmisation of Offshor
 
 The script entitled Main defines the key components used to evaluate internal and external wake effects along the Rødsand 2 and Nysted offshore wind farms using a range of engineering wake models. It contains the final model configurations and enables the use of the simulation_results function to generate desired outputs, wether a single value or a full plot.
 
-The script makes use of the PyWake open library, the documentation of which can be found at https://topfarm.pages.windenergy.dtu.dk/PyWake/.
+The script makes use of the PyWake open library, the documentation of which can be found at https://topfarm.pages.windenergy.dtu.dk/PyWake/
 In order to effectively use the script, another file included, which needs to be used in order to import the correct engineering Wake models
